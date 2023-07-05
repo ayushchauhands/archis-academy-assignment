@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Merge conflict 1 and 2resolved.
+          Merge conflict 1 and 2 resolved.
         </p>
         <a
           className="App-link"
